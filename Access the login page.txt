@@ -94,8 +94,7 @@ verify delete flow
  
 Access the login page through email
 Enter credentials and click on login
-verify home page
-Access the Navigational panel
+verify home page and navigational panrel
 Access WhatsApp Campaign 
 verify WhatsApp campaign listing page
 Access the create campaign
