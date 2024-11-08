@@ -1,0 +1,114 @@
+Access the login page 
+Access the login page through email
+Enter credentials and click on login
+verify home page
+Access the Navigational panel
+Access WhatsApp Campaign 
+verify WhatsApp campaign listing page
+Access the create campaign
+Verify the Choose template popup
+verify campaign creation page is display
+Enter the details in campaign information
+Try campaign objective as conversion
+Access send test message 
+Verify the send test message flow
+launch the campaign
+
+
+Access the login page 
+Access the login page through email
+Enter credentials and click on login
+verify home page
+Access the Navigational panel
+Access WhatsApp Campaign 
+verify WhatsApp campaign listing page
+Access the create campaign
+Verify the Choose template popup
+verify campaign creation page is display
+Enter the details in campaign information
+Try campaign objective as Re-engagement
+Access send test message 
+Verify the send test message flow
+launch the campaign
+
+
+Access the login page 
+Access the login page through email
+Enter credentials and click on login
+verify home page
+Access the Navigational panel
+Access WhatsApp Campaign 
+verify WhatsApp campaign listing page
+Access the create campaign
+Verify the Choose template popup
+verify campaign creation page is display
+Enter the details in campaign information
+Try campaign objective as Reachout
+Access send test message 
+Verify the send test message flow
+launch the campaign
+
+
+Access the login page 
+Access the login page through email
+Enter credentials and click on login
+verify home page
+Access the Navigational panel
+Access WhatsApp Campaign 
+verify WhatsApp campaign listing page
+Access the create campaign
+Verify the Choose template popup
+verify campaign creation page is display
+Enter the details in campaign information
+Delivery on now option
+Access send test message 
+Verify the send test message flow
+launch the campaign
+Verify the campaign under the sent listing page
+Verify preview message flow
+Verify clone flow
+verify archive flow
+
+Access the login page 
+Access the login page through email
+Enter credentials and click on login
+verify home page
+Access the Navigational panel
+Access WhatsApp Campaign 
+verify WhatsApp campaign listing page
+Access the create campaign
+Verify the Choose template popup
+verify campaign creation page is display
+Enter the details in campaign information
+Delivery on Scheduled option
+Change date and time
+Access send test message 
+Verify the send test message flow
+launch the campaign
+Verify Campaign under the scheduled
+verify preview flow 
+verify edit flow
+verify clone flow
+verify delete flow
+
+ 
+Access the login page through email
+Enter credentials and click on login
+verify home page
+Access the Navigational panel
+Access WhatsApp Campaign 
+verify WhatsApp campaign listing page
+Access the create campaign
+Verify the Choose template popup
+verify campaign creation page is display
+Enter the details in campaign information
+Delivery on Scheduled option
+Change date and time
+Access send test message 
+Verify the send test message flow
+Save as draft the campaign
+Verify draft campaign under draft listing page
+verify preview flow 
+verify edit flow
+verify clone flow
+verify delete flow
